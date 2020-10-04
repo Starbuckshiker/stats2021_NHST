@@ -2,6 +2,8 @@
 
 ## Exercises
 
+* Data Manipulation Tutorial: https://github.com/cmcntsh/stats2021_exer_dataManipulation
+
 ## Readings
 
 * Field chapter 2
