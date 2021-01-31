@@ -2,7 +2,7 @@
 
 ## Exercises
 
-* Data Manipulation Tutorial: https://github.com/cmcntsh/stats2021_exer_dataManipulation
+* Data Manipulation Exercise: https://github.com/cmcntsh/stats2021_exer_dataManipulation
 
 ## Readings
 
